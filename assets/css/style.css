@@ -256,19 +256,27 @@ img.portfolioPic {width:200px; height:160px;
 	background-color: #4aaaa5;
 	margin:525px 50px 50px 350px ;}	
 
-div.socialMedia2 {
+div.socialMedia {
 	position:absolute; 
-	margin:25px 20px 0px 795px; 
+	margin:25px 20px 0px 850px; 
 	background-color: white;
 	width:270px;
 	height:180px;
 	float:right;
 }
 
-.portfolioTitle {margin-left:20px;
-				margin-top:20px;
-				color:#4aaaa5;
-				margin-bottom:10px;}
+div.bodyPortfolio{
+	padding:20px;
+	margin-right:20px;
+	margin-left:10%;
+	margin-top:20px;
+	margin-bottom:20px;
+	background:white;
+	width:650px;
+	height:825px;
+	float:left;
+
+}
 
 			
 			
